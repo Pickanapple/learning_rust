@@ -1,0 +1,1 @@
+C:\Users\thass\OneDrive\ -\ Vestland\ fylkeskommune\Documents\privat\rust\rust_the_book\chapter_2\guessing_game\target\debug\guessing_game.exe: C:\Users\thass\OneDrive\ -\ Vestland\ fylkeskommune\Documents\privat\rust\rust_the_book\chapter_2\guessing_game\src\main.rs
