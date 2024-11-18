@@ -5,7 +5,7 @@
 
 ## Books
 
-- [The official book](https://www.rust-lang.org/learn)
+- [The official book](https://doc.rust-lang.org/book/)
 
 ## Excercises/projects
 
